@@ -7,9 +7,13 @@ Celem jest zbudowanie jasnego, przystępnego sposobu myślenia o danych, który 
 ## Zawartość
 
 [01. Otwarcie Warsztatu](./01.md)
+
 [02. Krótko o bazach](./02.md)
+
 [03. Zrozumienie kontekstu biznesowego](./03.md)
+
 [04. Od pytań do struktury danych](./04.md)
-[04. SQL w praktyce](./05.md)
+
+[05. SQL w praktyce](./05.md)
 
 
