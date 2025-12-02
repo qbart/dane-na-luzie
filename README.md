@@ -16,6 +16,8 @@ Celem jest zbudowanie jasnego, przystępnego sposobu myślenia o danych, który 
 
 [05. SQL w praktyce](./05.md)
 
+[06. AI jako wsparcie analityczne](./06.md)
+
 
 ## Ćwiczenia dodatkowe
 
