@@ -18,6 +18,7 @@ Celem jest zbudowanie jasnego, przystępnego sposobu myślenia o danych, który 
 
 [06. AI jako wsparcie analityczne](./06.md)
 
+07. AMA - ask me anything.
 
 ## Ćwiczenia dodatkowe
 
